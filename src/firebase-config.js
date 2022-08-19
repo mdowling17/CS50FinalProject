@@ -9,7 +9,7 @@ import { useState } from "react"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: process.env.REACT_APP_FIREBASE_APIKEY,
+    apiKey: AIzaSyBGD-YKP7Jwi2yeidAJeYZq8ViKgH-FQU",
     authDomain: process.env.REACT_APP_FIREBASE_AUTHDOMAIN,
     projectId: process.env.REACT_APP_FIREBASE_PROJECTID,
     storageBucket: process.env.REACT_APP_FIREBASE_STORAGEBUCKET,
